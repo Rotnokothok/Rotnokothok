@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Rotnokothok
 - 👀 I’m interested in Graphics Design and Programming 
-- 🌱 I’m currently learning Laravel and ReactJs
+- 🌱 I’m currently learning Laravel and NodeJS
 - 💞️ I’m looking to collaborate on Word Programming.
-- 📫 my facebook id is same eeb.com/rotnokothok
+- 📫 my facebook id is www.fb.com/rotnokothok
+- ** Also I am in Twitter   www.twitter.com/rotnokothok
 - My Contact number is +8801950839247
 
 <!---
